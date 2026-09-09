@@ -8,7 +8,7 @@ This Power BI project provides an interactive analysis of global development ind
 **Page 1: World Indicators Analysis**
 <img width="608" height="399" alt="dashboard-preview" src="https://github.com/user-attachments/assets/464bcfde-157f-469e-a988-eccd4df1e51c" />
 
-![World Indicators Analysis Dashboard](images/dashboard-preview.png)
+
 
 The main dashboard page includes the following components:
 
