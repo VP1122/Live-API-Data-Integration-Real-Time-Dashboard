@@ -69,15 +69,8 @@ The dashboard is built on a world development indicators dataset containing metr
 - Power BI Desktop (latest version recommended)
 - Access to the underlying dataset (CSV/Excel/database source, as configured in Power Query)
 
-## Project Structure
-```
-├── World_Indicators_Analysis.pbix   # Main Power BI report file
-├── data/                            # (optional) Source data files
-└── README.md                        # Project documentation
-```
+
 
 ## Author / Maintainer
-_Add your name, team, or organization here._
+Varsha Paul
 
-## License
-_Add license information here, if applicable._
